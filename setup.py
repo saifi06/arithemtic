@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="arithmetic-YOUR-USERNAME-HERE", # Replace with your own username
+    name="arithmetic-saifi", # Replace with your own username
     version="0.0.1",
-    author="Mike Driscoll",
-    author_email="driscoll@example.com",
+    author="saifi redha",
+    author_email="saifiredha06@gmail.com",
     description="A simple arithmetic package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/driscollis/arithmetic",
+    url="https://github.com/saifi06/arithemtic.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
